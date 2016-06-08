@@ -1,0 +1,23 @@
+
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: red;
+}
+
+.centered {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resize {
+  font-size: 1.5em;
+}
+
+.jump {
+  color: blue;
+  font-weight: bold;
+}
